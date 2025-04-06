@@ -4,3 +4,5 @@ services:
     container_name: oleg-danilov
     ports:
       - 8754:80
+    volumes:
+      - .:/usr/local/apache2/htdocs/
