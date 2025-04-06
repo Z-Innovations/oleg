@@ -1,0 +1,6 @@
+services:
+  oleg-danilov:
+    build: .
+    container_name: oleg-danilov
+    ports:
+      - 8754:80
