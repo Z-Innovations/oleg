@@ -1,6 +1,19 @@
 
+.context {
+    font-size: 15px;
+}
+.image {
+    width: 25%;
+}
+.images {
+    width: 35%;
+}
 .container > div {
     margin-bottom: 25px;
+}
+
+.wrapper {
+    padding-top: 50px;
 }
 
 .container .description div {
